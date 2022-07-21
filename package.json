@@ -1,8 +1,8 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
- "type":"module",
- "description": "мой первый проект на Хакслете",
+  "type": "module",
+  "description": "мой первый проект на Хакслете",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mambrosimova/hexlet-js/issues"
   },
-  "homepage": "https://github.com/mambrosimova/hexlet-js#readme"
+  "homepage": "https://github.com/mambrosimova/hexlet-js#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
